@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Voting_MM</string>
+    <string name="card_description">Card Description</string>
+    <string name="card_title">Card Title</string>
+    <string name="card_description_text">Card Description</string>
+</resources>
